@@ -1,0 +1,9 @@
+import sdk from '@stackblitz/sdk'
+
+sdk.embedProjectId(
+  'elementOrId',
+  'github-sjhugw-av7vnm',
+  {
+    forceEmbedLayout: true,
+  }
+);
